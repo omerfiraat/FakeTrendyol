@@ -1,0 +1,6 @@
+framework module Pods_TrendyolFake {
+  umbrella header "Pods-TrendyolFake-umbrella.h"
+
+  export *
+  module * { export * }
+}
