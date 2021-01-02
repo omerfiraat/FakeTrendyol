@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         print("Asımcan Ekşioğlu")
         print("Hüseyin Ömer Fırat")
         print("code review")
-        print("Bekir Tura")
         
         
         
